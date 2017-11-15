@@ -1,0 +1,9 @@
+C:\I-Work\RD.net\XcustGL_KTP\XcustGL_KTP\obj\Debug\XcustGL_KTP.Properties.Resources.resources
+C:\I-Work\RD.net\XcustGL_KTP\XcustGL_KTP\obj\Debug\XcustGL_KTP.csproj.GenerateResource.Cache
+C:\I-Work\RD.net\XcustGL_KTP\XcustGL_KTP\obj\Debug\XcustGL_KTP.csproj.CoreCompileInputs.cache
+C:\I-Work\RD.net\XcustGL_KTP\XcustGL_KTP\obj\Debug\XcustGL_KTP.Resource1.resources
+C:\I-Work\RD.net\XcustGL_KTP\XcustGL_KTP\bin\Debug\XcustGL_KTP.exe.config
+C:\I-Work\RD.net\XcustGL_KTP\XcustGL_KTP\bin\Debug\XcustGL_KTP.exe
+C:\I-Work\RD.net\XcustGL_KTP\XcustGL_KTP\bin\Debug\XcustGL_KTP.pdb
+C:\I-Work\RD.net\XcustGL_KTP\XcustGL_KTP\obj\Debug\XcustGL_KTP.exe
+C:\I-Work\RD.net\XcustGL_KTP\XcustGL_KTP\obj\Debug\XcustGL_KTP.pdb
